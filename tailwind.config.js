@@ -24,7 +24,7 @@
 // - Weights: 400, 700
 
 module.exports = {
-  content: ["./src/**/*.{html,js}"],
+  content: ["./**/*.{html,js}"],
   theme: {
     screens: {
       sm: "480px",
